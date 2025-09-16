@@ -7,7 +7,6 @@ import Categorization from "./components/categorization/categorization";
 import Prodoct from "./components/prodoct/prodoct";
 import Foter from "./components/foter/foter";
 import { useRef } from "react";
-import Test1 from "./components/testcomponent/page";
 import Head from "next/head";
 import { FaOtter } from "react-icons/fa";
 import Fotter from "./components/fotter/foter";
