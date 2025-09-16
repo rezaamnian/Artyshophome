@@ -1,0 +1,8 @@
+  {
+      "platform": "node",
+      "appType": "next",
+      "port": 3000,
+      "buildCommand": "npm run build",
+      "startCommand": "npm run start",
+      "installCommand": "npm install"
+    }
